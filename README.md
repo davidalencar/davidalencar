@@ -13,6 +13,7 @@ The simplest samples for start to understand that amazing language.
   - [Course - Elixir in practice - Introductory](https://github.com/ellyacademy/cursos/tree/main/elixir/001) 
  This course covers the fundamentals of the elixir. We use a dynamic in which you learn as you need to solve problems.
  Watch the playlist with 26 lessons on [youtube(Portuguese only).](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR)
+  - [Repoissues](https://github.com/davidalencar/repoissues) A sample from the book "Programming Elixir 1.6 Functional |> Concurrent |> Pragmatic |> Fun". Is a good project to think about the functional approach.
  
 ## OTP
 Understanding Supervisor struct and strategies
